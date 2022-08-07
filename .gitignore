@@ -230,7 +230,6 @@ crashlytics-build.properties
 fabric.properties
 
 CLIP-repo/
-clip/
 
 pytorch-YOLOv4/
 yolov4.weights
